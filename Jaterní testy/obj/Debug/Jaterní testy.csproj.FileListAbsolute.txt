@@ -1,0 +1,10 @@
+H:\8.B\Programy\Jaterní testy\Jaterní testy\bin\Debug\Jaterní testy.exe.config
+H:\8.B\Programy\Jaterní testy\Jaterní testy\bin\Debug\Jaterní testy.exe
+H:\8.B\Programy\Jaterní testy\Jaterní testy\bin\Debug\Jaterní testy.pdb
+H:\8.B\Programy\Jaterní testy\Jaterní testy\obj\Debug\Jaterní testy.csprojAssemblyReference.cache
+H:\8.B\Programy\Jaterní testy\Jaterní testy\obj\Debug\Jaterní_testy.Form1.resources
+H:\8.B\Programy\Jaterní testy\Jaterní testy\obj\Debug\Jaterní_testy.Properties.Resources.resources
+H:\8.B\Programy\Jaterní testy\Jaterní testy\obj\Debug\Jaterní testy.csproj.GenerateResource.cache
+H:\8.B\Programy\Jaterní testy\Jaterní testy\obj\Debug\Jaterní testy.csproj.CoreCompileInputs.cache
+H:\8.B\Programy\Jaterní testy\Jaterní testy\obj\Debug\Jaterní testy.exe
+H:\8.B\Programy\Jaterní testy\Jaterní testy\obj\Debug\Jaterní testy.pdb
